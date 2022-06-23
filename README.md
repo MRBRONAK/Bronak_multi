@@ -1,6 +1,5 @@
 # Bronak_multi
 BRONAK_multi == 1.5
-thank for downloading my multi tool i hope you like it :)
 
 :warning1
 
